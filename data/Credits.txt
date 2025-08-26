@@ -24,5 +24,25 @@ Loveme - 서지현 by 공유마당 저작권 위원회
 \c[2]Font
 마비옛체 - ㈜넥슨코리아
 
+\c[2]Thanks
+Your Characters
+</block>
+
+<block:-1,0,10,10,100,right>
+
+Thank you for the time
+spent with your character
+
+</block>
+
+<block:-1,0,10,10,100,left>
+
+I wish they happiness in all the time
+
+</block>
+
+<block:999,0,10,10,300,center>
+
+
 < COMPLETE >
 </block>
